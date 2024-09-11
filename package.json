@@ -1,0 +1,14 @@
+{
+  "name": "harnesscd-example-apps",
+  "version": "1.0.0",
+  "description": "This repository contains example applications for demoing Harness CD & GitOps functionality. Feel free use this to learn more about Harness CD & GitOps in your own Harness account, or fork this repo and push your own commits!",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "@types/node": "^22.5.4"
+  }
+}
